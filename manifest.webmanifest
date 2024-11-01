@@ -1,11 +1,11 @@
 {
-    "name": "tap-tap-america",
-    "short_name": "tap-tap-america",
+    "name": "HammerTheOpposition",
+    "short_name": "HammerTheOpposition",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "tap-tap-america",
+    "description": "HammerTheOpposition",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
